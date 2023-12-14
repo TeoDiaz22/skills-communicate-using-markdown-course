@@ -5,3 +5,7 @@
 ``` java
 int carro = 0;
 ```
+### Ejemplo lista de tareas
+- [ ] Deber de progra
+- [x] Deber de agiles
+- [ ] Deber de web 
